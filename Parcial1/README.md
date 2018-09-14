@@ -1,7 +1,7 @@
 # Sharing Activity: Primer Parcial
 
 ## Serie de Fibonacci
-Se compone de n iteraciones, donde en cada iteración:
+Se compone de n iteraciones, donde en cada iteración:<br/>
 ni = ni-1 + ni-2
 Los 2 primeros números se definen como n0 = 1 y n1 = 1
 

@@ -9,4 +9,4 @@ Ejemplo con 8 iteraciones: 1, 1, 2, 3, 5, 8, 13, 21
 
 ## Series de Taylor
 Son utilizadas para calcular aproximaciones numéricas.<br>
-![alt Serie_Taylor_Def](https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/taylor_serie_def.png)
+![alt Serie_Taylor_Def](https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/taylor_serie_def.png | width=200)

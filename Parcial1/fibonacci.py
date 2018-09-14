@@ -13,8 +13,8 @@ with fibonacciGraph.as_default():
 
 with tf.Session(graph=fibonacciGraph) as sess:
     init.run()
-    print(x1.eval())
-    print(x2.eval())
+    print(ni_1.eval())
+    print(ni_2.eval())
     for i in range(10):
         prev_step.eval()
         print(fibonacci.eval())

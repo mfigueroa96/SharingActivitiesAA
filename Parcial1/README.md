@@ -18,7 +18,7 @@ Como ejemplo, utilizaremos f(x) = cos(x)<br>
 Utilizando series de Taylor, obtendremos la aproximación al coseno de x.<br>
 <br>
 <p style="text-align: center;">
-	<img src="https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/cos_deriv_4.png" width="400" /><br>
-	<img src="https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/cosx_reduce.png" width="400" /><br>
-	<img src="https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/cosx_taylor.png" width="200" /><br>
+	<img src="https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/cos_deriv_4.png" width="600" /><br><br>
+	<img src="https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/cosx_reduce.png" width="600" /><br><br>
+	<img src="https://github.com/mfigueroa96/SharingActivitiesAA/blob/Parcial1/Parcial1/images/cosx_taylor.png" width="300" /><br>
 </p>
